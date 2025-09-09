@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Khaled Aldeek  
 
-<!--
-**KhaledAldeek/KhaledAldeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full-Stack Developer under training at **Axsos Academy** and studying **Birzeit University (BZU)**.  
+💻 Passionate about building scalable web applications and learning modern development practices.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently improving my skills in **Java**, **HTML**, **CSS**, **JavaScript**, and **MySQL**.  
+- 🔧 Interested in both **frontend** (design & usability) and **backend** (logic & databases).  
+- 🎯 My goal is to become a professional **Full-Stack Developer** capable of delivering complete solutions.  
+
+---
+
+## 🛠️ Tech Stack  
+### Frontend  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+
+### Backend  
+- Java  
+
+### Database  
+- MySQL  
+
+---
+
+## 📌 Current Focus  
+- Mastering **Java backend development**  
+- Strengthening **database design & SQL queries**  
+- Practicing **responsive frontend design**  
+- Working on small **full-stack projects** to connect frontend, backend, and database  
+
+---
+
+## 📫 Contact Me  
+- 📧 Email: *[khaled031203@gmail.com]*  
+- 🌍 GitHub: [KhaledAldeek](https://github.com/KhaledAldeek)  
+- 🏫 University: Birzeit University (BZU)  
+
+---
+
+✨ *This README will grow as I learn and build more projects!*  
+
