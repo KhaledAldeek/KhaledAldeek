@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khaled Aldeek  
 
-🎓 Full-Stack Developer under training at **Axsos Academy** and studying at**Birzeit University (BZU)**.  
+🎓 Full-Stack Developer under training at **Axsos Academy** and studying at **Birzeit University (BZU)**.  
 💻 Passionate about building scalable web applications and learning modern development practices.  
 
 ---
