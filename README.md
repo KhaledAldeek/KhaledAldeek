@@ -9,7 +9,7 @@
 - 🌱 Currently improving my skills in **Java**, **C**, **HTML**, **CSS**, **JavaScript**, and **SQL**.  
 - 🔧 Interested in both **frontend** (design & usability) and **backend** (logic & databases).  
 - 🎯 My goal is to become a professional **Full-Stack Developer** capable of delivering complete solutions.  
-- 📂 Currently, I don’t have projects yet — but I’m actively learning and preparing to build!  
+- 📂 Currently, I don't have projects yet — but I'm actively learning and preparing to build!  
 
 ---
 
@@ -29,15 +29,9 @@
 
 ---
 
-## 📊 Most Used Languages  
+## 📊 Most Used Languages
 
-- **Java**       🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 40%  
-- **JavaScript** 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 15%  
-- **HTML**       🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 15%  
-- **CSS**        🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 15%  
-- **SQL**        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 10%  
-- **C**          ⬛⬛⬛⬛⬛ 5%  
-
+![Language Statistics](./Screenshot_2025-09-13_212220.png)
 
 ---
 
