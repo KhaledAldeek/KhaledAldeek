@@ -44,7 +44,7 @@ C            ███ 5%
 
 ## 📫 Contact Me  
 - 📧 Email: [khaled031203@gmail.com](mailto:khaled031203@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/khaled-aldeek](https://www.linkedin.com/in/khaled-aldeek)  
+- 💼 LinkedIn: ......
 - 🌍 GitHub: [KhaledAldeek](https://github.com/KhaledAldeek)  
 
 ---
