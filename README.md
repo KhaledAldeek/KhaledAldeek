@@ -50,7 +50,7 @@
 
 ## 📫 Contact Me  
 - 📧 Email: [khaled031203@gmail.com](mailto:khaled031203@gmail.com)  
-- 💼 LinkedIn: ......  
+- 💼 LinkedIn: [Khaled-aldeek](https://www.linkedin.com/in/khaled-aldeek-963950366/)
 - 🌍 GitHub: [KhaledAldeek](https://github.com/KhaledAldeek)  
 
 ---
