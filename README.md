@@ -50,20 +50,6 @@
 🔗 **My LeetCode Profile:**  
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Khaled0312/): [Khaled0312](https://leetcode.com/u/Khaled0312/)
 
-
----
-
-## 📊 Languages I Use Most  
-- Java  
-- Python  
-- JavaScript  
-- HTML  
-- CSS  
-- SQL  
-- C  
-
----
-
 ## 📫 Contact Me  
 - 📧 Email: **khaled031203@gmail.com**  
 - 💼 LinkedIn: [Khaled-aldeek](https://www.linkedin.com/in/khaled-aldeek-963950366/)  
