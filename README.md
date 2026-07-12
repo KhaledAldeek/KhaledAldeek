@@ -2,8 +2,7 @@
 
 ### 💻 Full-Stack Developer
 
-Full-Stack Developer passionate about building scalable, efficient web applications.
-Continuously learning new technologies and turning ideas into real-world projects.
+I build scalable, production-ready web applications from the database up — and I don't stop at "it works." I care about clean architecture, solid data modeling, and code that's actually maintainable. Currently sharpening my edge in **TypeScript** and **cybersecurity**, and always shipping something new.
 
 📍 Ramallah, Palestine
 
@@ -13,12 +12,14 @@ Continuously learning new technologies and turning ideas into real-world project
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -27,10 +28,10 @@ Continuously learning new technologies and turning ideas into real-world project
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
 
 **Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
@@ -48,9 +49,11 @@ Continuously learning new technologies and turning ideas into real-world project
 ## 📐 Architectures & Patterns
 
 - **MVC** (Model–View–Controller)
+- **Controller–Service–Repository** architecture
 - **MTV** (Model–Template–View – Django)
 - **RESTful API Development**
 - **OOP** (Object-Oriented Programming)
+- Strong typing & type-safety practices (Generics, Utility Types, Discriminated Unions)
 
 ---
 
@@ -72,7 +75,7 @@ MERN-stack platform (**MongoDB, Express, React, Node.js**) for creating and mana
 
 ## 🧠 Algorithms & Problem Solving
 
-Solved **120+ LeetCode problems**, focusing on data structures, algorithms, and logical problem-solving.
+Solved **199+ LeetCode problems**, with hands-on implementation of graph algorithms (BFS, DFS, Dijkstra's, MST) and core data structures from scratch in Java.
 
 🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Khaled0312/) [Khaled0312](https://leetcode.com/u/Khaled0312/)
 
@@ -81,7 +84,7 @@ Solved **120+ LeetCode problems**, focusing on data structures, algorithms, and 
 ## 🎓 Education
 
 **Axsos Academy** — Full-Stack Developer Certificate · Ramallah, Palestine · 2025
-Immersive 16-week, 1,200+ hour Full-Stack Development bootcamp covering Python, Java, and MERN web technologies, including 100+ hours of algorithms and data structures and 3 complete capstone projects.
+Immersive 16-week, 1,200+ hour Full-Stack Development bootcamp covering Python, Java, TypeScript, and MERN web technologies, including 100+ hours of algorithms and data structures and 3 complete capstone projects.
 
 ---
 
@@ -101,4 +104,4 @@ Immersive 16-week, 1,200+ hour Full-Stack Development bootcamp covering Python, 
 
 ---
 
-✨ *This README will grow as I learn more, solve more problems, and build real-world projects!* 🚀
+✨ *Always building, always leveling up. More projects, more problems solved, more code shipped — this README grows as I do.* 🚀
